@@ -1,0 +1,12 @@
+{
+    "gridCell": {
+        "navigation": {}, 
+        "item": {}, 
+        "numColumns": 3
+    },
+    "postCell": {
+        "navigation": {}, 
+        "item": {}, 
+        "name": ""
+    }
+}
