@@ -107,7 +107,9 @@ exports[`PostCell renders correctly 1`] = `
           "paddingTop": 10,
         }
       }
-    />
+    >
+      
+    </Text>
     <Text
       style={
         Object {
